@@ -1,0 +1,14 @@
+ Null title                                     Feff8L (EXAFS)       0.1
+ POT  Non-SCF, core-hole, AFOLP (folp(0)= 1.150)
+ Abs   Z=78 Rmt= 1.464 Rnm= 1.499 L3 shell
+ Pot 1 Z=78 Rmt= 1.477 Rnm= 1.515
+ Gam_ch=5.171E+00 H-L exch
+ Mu=-2.715E-01 kf=2.035E+00 Vint=-1.605E+01 Rs_int= 1.782
+ PATH  Rmax= 5.000,  Keep_limit= 0.00, Heap_limit 0.00  Pwcrit= 2.50%
+ -----------------------------------------------------------------------
+    file        sig2   amp ratio    deg    nlegs  r effective
+ feff0001.dat 0.00000   100.000    12.000     2   2.7748
+ feff0002.dat 0.00000    25.110     6.000     2   3.9242
+ feff0003.dat 0.00000    14.840    48.000     3   4.1622
+ feff0004.dat 0.00000     5.812    48.000     3   4.7369
+ feff0005.dat 0.00000    59.980    24.000     2   4.8061

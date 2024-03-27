@@ -1,0 +1,845 @@
+=================== FEFFIT RESULTS ====================
+[[Statistics]]
+   nvarys, npts       =  38, 1768
+   n_independent      =  181.503
+   chi_square         =  447.04451
+   reduced chi_square =  3.1152374
+   r-factor           =  0.0417791
+   Akaike info crit   =  239.60431
+   Bayesian info crit =  361.25255
+ 
+[[Datasets (17)]]
+ dataset 1:
+   fit space          = 'r'
+   r-range            = 1.700, 3.300
+   k-range            = 2.500, 12.000
+   k window, dk       = 'hanning', 3.000
+   paths used in fit  = ['./FEFF/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.0027707, std=0.0069859)
+   epsilon_r          = 0.3954096
+   n_independent      = 10.677
+ dataset 2:
+   fit space          = 'r'
+   r-range            = 1.700, 3.300
+   k-range            = 2.500, 12.000
+   k window, dk       = 'hanning', 3.000
+   paths used in fit  = ['./FEFF/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.0024171, std=0.0056482)
+   epsilon_r          = 0.3449486
+   n_independent      = 10.677
+ dataset 3:
+   fit space          = 'r'
+   r-range            = 1.700, 3.300
+   k-range            = 2.500, 12.000
+   k window, dk       = 'hanning', 3.000
+   paths used in fit  = ['./FEFF/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.0023445, std=0.0054993)
+   epsilon_r          = 0.3345873
+   n_independent      = 10.677
+ dataset 4:
+   fit space          = 'r'
+   r-range            = 1.700, 3.300
+   k-range            = 2.500, 12.000
+   k window, dk       = 'hanning', 3.000
+   paths used in fit  = ['./FEFF/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.0022992, std=0.0054283)
+   epsilon_r          = 0.3281199
+   n_independent      = 10.677
+ dataset 5:
+   fit space          = 'r'
+   r-range            = 1.700, 3.300
+   k-range            = 2.500, 12.000
+   k window, dk       = 'hanning', 3.000
+   paths used in fit  = ['./FEFF/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.0023904, std=0.0056257)
+   epsilon_r          = 0.3411386
+   n_independent      = 10.677
+ dataset 6:
+   fit space          = 'r'
+   r-range            = 1.700, 3.300
+   k-range            = 2.500, 12.000
+   k window, dk       = 'hanning', 3.000
+   paths used in fit  = ['./FEFF/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.0025306, std=0.0058049)
+   epsilon_r          = 0.3611442
+   n_independent      = 10.677
+ dataset 7:
+   fit space          = 'r'
+   r-range            = 1.700, 3.300
+   k-range            = 2.500, 12.000
+   k window, dk       = 'hanning', 3.000
+   paths used in fit  = ['./FEFF/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.0025712, std=0.0054118)
+   epsilon_r          = 0.3669489
+   n_independent      = 10.677
+ dataset 8:
+   fit space          = 'r'
+   r-range            = 1.700, 3.300
+   k-range            = 2.500, 12.000
+   k window, dk       = 'hanning', 3.000
+   paths used in fit  = ['./FEFF/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.0024156, std=0.0052480)
+   epsilon_r          = 0.3447407
+   n_independent      = 10.677
+ dataset 9:
+   fit space          = 'r'
+   r-range            = 1.700, 3.300
+   k-range            = 2.500, 12.000
+   k window, dk       = 'hanning', 3.000
+   paths used in fit  = ['./FEFF/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.0035392, std=0.0090632)
+   epsilon_r          = 0.5050815
+   n_independent      = 10.677
+ dataset 10:
+   fit space          = 'r'
+   r-range            = 1.700, 3.300
+   k-range            = 2.500, 12.000
+   k window, dk       = 'hanning', 3.000
+   paths used in fit  = ['./FEFF/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.0037286, std=0.0100649)
+   epsilon_r          = 0.5321199
+   n_independent      = 10.677
+ dataset 11:
+   fit space          = 'r'
+   r-range            = 1.700, 3.300
+   k-range            = 2.500, 12.000
+   k window, dk       = 'hanning', 3.000
+   paths used in fit  = ['./FEFF/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.0025940, std=0.0059751)
+   epsilon_r          = 0.3702021
+   n_independent      = 10.677
+ dataset 12:
+   fit space          = 'r'
+   r-range            = 1.700, 3.300
+   k-range            = 2.500, 12.000
+   k window, dk       = 'hanning', 3.000
+   paths used in fit  = ['./FEFF/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.0025213, std=0.0062796)
+   epsilon_r          = 0.3598183
+   n_independent      = 10.677
+ dataset 13:
+   fit space          = 'r'
+   r-range            = 1.700, 3.300
+   k-range            = 2.500, 12.000
+   k window, dk       = 'hanning', 3.000
+   paths used in fit  = ['./FEFF/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.0025367, std=0.0057238)
+   epsilon_r          = 0.3620200
+   n_independent      = 10.677
+ dataset 14:
+   fit space          = 'r'
+   r-range            = 1.700, 3.300
+   k-range            = 2.500, 12.000
+   k window, dk       = 'hanning', 3.000
+   paths used in fit  = ['./FEFF/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.0025463, std=0.0057387)
+   epsilon_r          = 0.3633857
+   n_independent      = 10.677
+ dataset 15:
+   fit space          = 'r'
+   r-range            = 1.700, 3.300
+   k-range            = 2.500, 12.000
+   k window, dk       = 'hanning', 3.000
+   paths used in fit  = ['./FEFF/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.0025049, std=0.0055098)
+   epsilon_r          = 0.3574809
+   n_independent      = 10.677
+ dataset 16:
+   fit space          = 'r'
+   r-range            = 1.700, 3.300
+   k-range            = 2.500, 12.000
+   k window, dk       = 'hanning', 3.000
+   paths used in fit  = ['./FEFF/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.0024500, std=0.0055769)
+   epsilon_r          = 0.3496424
+   n_independent      = 10.677
+ dataset 17:
+   fit space          = 'r'
+   r-range            = 1.700, 3.300
+   k-range            = 2.500, 12.000
+   k window, dk       = 'hanning', 3.000
+   paths used in fit  = ['./FEFF/feff0001.dat']
+   k-weight           = 3
+   epsilon_k          = Array(mean=0.0025474, std=0.0057296)
+   epsilon_r          = 0.3635523
+   n_independent      = 10.677
+ 
+[[Variables]]
+   N              =  10.872839 +/- 0.5050224   (init=  11.000000)
+   SO2            =  0.7600000 (fixed)
+   dele           =  8.5091485 +/- 0.8027888   (init=  0.0000000)
+   delr_100       = -0.0010970 +/- 0.0135021   (init=  0.0000000)
+   delr_125       = -0.0052455 +/- 0.0141122   (init=  0.0000000)
+   delr_150       =  0.0043228 +/- 0.0136352   (init=  0.0000000)
+   delr_175       =  0.0016035 +/- 0.0138506   (init=  0.0000000)
+   delr_200       =  0.0022422 +/- 0.0143867   (init=  0.0000000)
+   delr_225       = -2.0750e-4 +/- 0.0146699   (init=  0.0000000)
+   delr_250       = -0.0059048 +/- 0.0163698   (init=  0.0000000)
+   delr_275       = -0.0052076 +/- 0.0168558   (init=  0.0000000)
+   delr_300       = -0.0133401 +/- 0.0126684   (init=  0.0000000)
+   delr_50        = -0.0010842 +/- 0.0129894   (init=  0.0000000)
+   delr_75        =  0.0021675 +/- 0.0134751   (init=  0.0000000)
+   delr_RT        = -5.7991e-4 +/- 0.0098602   (init=  0.0000000)
+   ss2_100        =  0.0073115 +/- 4.5099e-4   (init=  0.0030000)
+   ss2_125        =  0.0074757 +/- 4.7442e-4   (init=  0.0030000)
+   ss2_150        =  0.0075114 +/- 4.5948e-4   (init=  0.0030000)
+   ss2_175        =  0.0078591 +/- 4.7352e-4   (init=  0.0030000)
+   ss2_200        =  0.0083263 +/- 5.0123e-4   (init=  0.0030000)
+   ss2_225        =  0.0082587 +/- 5.0985e-4   (init=  0.0030000)
+   ss2_250        =  0.0088500 +/- 5.8376e-4   (init=  0.0030000)
+   ss2_275        =  0.0090122 +/- 6.0559e-4   (init=  0.0030000)
+   ss2_300        =  0.0095423 +/- 4.6014e-4   (init=  0.0030000)
+   ss2_50         =  0.0067199 +/- 4.2369e-4   (init=  0.0030000)
+   ss2_75         =  0.0071576 +/- 4.4727e-4   (init=  0.0030000)
+   ss2_RT         =  0.0073713 +/- 3.3307e-4   (init=  0.0030000)
+   th_100         =  1.3395e-4 +/- 1.8890e-4   (init=  0.0000000)
+   th_125         =  9.0766e-5 +/- 2.0057e-4   (init=  0.0000000)
+   th_150         =  3.2429e-4 +/- 1.9243e-4   (init=  0.0000000)
+   th_175         =  2.9908e-4 +/- 1.9814e-4   (init=  0.0000000)
+   th_200         =  3.0895e-4 +/- 2.1048e-4   (init=  0.0000000)
+   th_225         =  2.8300e-4 +/- 2.1522e-4   (init=  0.0000000)
+   th_250         =  1.6309e-4 +/- 2.5009e-4   (init=  0.0000000)
+   th_275         =  2.3754e-4 +/- 2.6026e-4   (init=  0.0000000)
+   th_300         =  1.5562e-4 +/- 1.8421e-4   (init=  0.0000000)
+   th_50          =  1.4348e-4 +/- 1.7713e-4   (init=  0.0000000)
+   th_75          =  2.1357e-4 +/- 1.8770e-4   (init=  0.0000000)
+   th_RT          =  1.5957e-4 +/- 1.2115e-4   (init=  0.0000000)
+ 
+[[Correlations]]    (unreported correlations are <  0.100)
+   delr_50, th_50       =  0.936
+   delr_75, th_75       =  0.935
+   delr_125, th_125     =  0.934
+   delr_100, th_100     =  0.934
+   delr_150, th_150     =  0.934
+   delr_175, th_175     =  0.932
+   delr_RT, th_RT       =  0.932
+   delr_225, th_225     =  0.932
+   delr_275, th_275     =  0.931
+   delr_200, th_200     =  0.931
+   delr_250, th_250     =  0.931
+   delr_300, th_300     =  0.924
+   N, ss2_RT            =  0.765
+   dele, delr_RT        =  0.754
+   dele, delr_300       =  0.631
+   N, ss2_300           =  0.607
+   N, ss2_50            =  0.587
+   N, ss2_75            =  0.565
+   N, ss2_100           =  0.564
+   dele, delr_50        =  0.561
+   N, ss2_150           =  0.557
+   dele, delr_100       =  0.550
+   N, ss2_175           =  0.549
+   dele, delr_75        =  0.547
+   dele, delr_150       =  0.545
+   dele, delr_175       =  0.543
+   dele, th_RT          =  0.541
+   N, ss2_125           =  0.540
+   dele, delr_200       =  0.531
+   dele, delr_125       =  0.529
+   N, ss2_200           =  0.528
+   dele, delr_225       =  0.520
+   N, ss2_225           =  0.518
+   delr_300, delr_RT    =  0.477
+   dele, delr_250       =  0.477
+   dele, delr_275       =  0.465
+   ss2_300, ss2_RT      =  0.464
+   N, ss2_250           =  0.464
+   N, ss2_275           =  0.450
+   ss2_50, ss2_RT       =  0.449
+   ss2_75, ss2_RT       =  0.433
+   ss2_100, ss2_RT      =  0.432
+   ss2_150, ss2_RT      =  0.427
+   delr_50, delr_RT     =  0.424
+   ss2_175, ss2_RT      =  0.420
+   delr_100, delr_RT    =  0.416
+   delr_75, delr_RT     =  0.414
+   ss2_125, ss2_RT      =  0.414
+   delr_150, delr_RT    =  0.412
+   delr_175, delr_RT    =  0.411
+   dele, th_300         =  0.410
+   ss2_200, ss2_RT      =  0.405
+   delr_200, delr_RT    =  0.402
+   delr_125, delr_RT    =  0.401
+   ss2_225, ss2_RT      =  0.397
+   delr_225, delr_RT    =  0.393
+   delr_250, delr_RT    =  0.361
+   ss2_300, ss2_50      =  0.356
+   dele, th_50          =  0.356
+   ss2_250, ss2_RT      =  0.355
+   delr_300, delr_50    =  0.355
+   delr_275, delr_RT    =  0.352
+   delr_100, delr_300   =  0.348
+   delr_300, delr_75    =  0.346
+   dele, th_100         =  0.346
+   delr_150, delr_300   =  0.345
+   ss2_275, ss2_RT      =  0.345
+   dele, th_75          =  0.345
+   delr_175, delr_300   =  0.344
+   ss2_300, ss2_75      =  0.343
+   dele, th_150         =  0.343
+   delr_300, th_RT      =  0.342
+   ss2_100, ss2_300     =  0.342
+   dele, th_175         =  0.340
+   ss2_150, ss2_300     =  0.338
+   delr_200, delr_300   =  0.336
+   delr_125, delr_300   =  0.335
+   ss2_175, ss2_300     =  0.333
+   ss2_50, ss2_75       =  0.332
+   ss2_100, ss2_50      =  0.331
+   dele, th_200         =  0.330
+   dele, th_125         =  0.329
+   delr_225, delr_300   =  0.329
+   ss2_125, ss2_300     =  0.328
+   ss2_150, ss2_50      =  0.327
+   ss2_175, ss2_50      =  0.322
+   dele, th_225         =  0.321
+   ss2_200, ss2_300     =  0.321
+   ss2_100, ss2_75      =  0.319
+   ss2_125, ss2_50      =  0.317
+   ss2_150, ss2_75      =  0.315
+   ss2_100, ss2_150     =  0.315
+   ss2_225, ss2_300     =  0.314
+   delr_RT, th_300      =  0.310
+   ss2_175, ss2_75      =  0.310
+   ss2_200, ss2_50      =  0.310
+   ss2_100, ss2_175     =  0.310
+   delr_100, delr_50    =  0.310
+   delr_50, delr_75     =  0.308
+   delr_150, delr_50    =  0.307
+   ss2_150, ss2_175     =  0.306
+   delr_175, delr_50    =  0.305
+   ss2_125, ss2_75      =  0.305
+   ss2_100, ss2_125     =  0.305
+   delr_50, th_RT       =  0.304
+   ss2_225, ss2_50      =  0.304
+   delr_100, delr_75    =  0.302
+   delr_250, delr_300   =  0.302
+   ss2_125, ss2_150     =  0.301
+   delr_100, delr_150   =  0.301
+   delr_100, delr_175   =  0.300
+   delr_150, delr_75    =  0.299
+   delr_200, delr_50    =  0.299
+   ss2_200, ss2_75      =  0.299
+   delr_100, th_RT      =  0.299
+   ss2_100, ss2_200     =  0.298
+   delr_175, delr_75    =  0.298
+   delr_125, delr_50    =  0.298
+   delr_75, th_RT       =  0.297
+   delr_150, delr_175   =  0.297
+   ss2_125, ss2_175     =  0.296
+   delr_150, th_RT      =  0.296
+   ss2_150, ss2_200     =  0.295
+   delr_175, th_RT      =  0.295
+   delr_275, delr_300   =  0.294
+   delr_100, delr_200   =  0.293
+   ss2_225, ss2_75      =  0.293
+   delr_225, delr_50    =  0.292
+   ss2_100, ss2_225     =  0.292
+   delr_100, delr_125   =  0.292
+   delr_200, delr_75    =  0.292
+   delr_125, delr_75    =  0.291
+   delr_150, delr_200   =  0.290
+   ss2_175, ss2_200     =  0.290
+   delr_125, delr_150   =  0.289
+   delr_175, delr_200   =  0.289
+   ss2_150, ss2_225     =  0.289
+   dele, th_250         =  0.288
+   delr_125, delr_175   =  0.288
+   delr_200, th_RT      =  0.288
+   delr_125, th_RT      =  0.287
+   delr_100, delr_225   =  0.287
+   ss2_125, ss2_200     =  0.285
+   delr_225, delr_75    =  0.285
+   ss2_175, ss2_225     =  0.284
+   delr_150, delr_225   =  0.284
+   delr_175, delr_225   =  0.283
+   delr_125, delr_200   =  0.282
+   delr_225, th_RT      =  0.282
+   ss2_250, ss2_300     =  0.282
+   ss2_125, ss2_225     =  0.280
+   dele, th_275         =  0.280
+   delr_200, delr_225   =  0.277
+   delr_125, delr_225   =  0.276
+   ss2_200, ss2_225     =  0.274
+   ss2_275, ss2_300     =  0.273
+   ss2_250, ss2_50      =  0.272
+   delr_RT, th_50       =  0.269
+   delr_250, delr_50    =  0.268
+   ss2_275, ss2_50      =  0.264
+   delr_100, delr_250   =  0.263
+   ss2_250, ss2_75      =  0.262
+   delr_250, delr_75    =  0.262
+   ss2_100, ss2_250     =  0.262
+   delr_RT, th_100      =  0.262
+   delr_275, delr_50    =  0.262
+   delr_150, delr_250   =  0.261
+   delr_RT, th_75       =  0.261
+   delr_175, delr_250   =  0.260
+   delr_RT, th_150      =  0.259
+   delr_250, th_RT      =  0.259
+   ss2_150, ss2_250     =  0.259
+   delr_RT, th_175      =  0.257
+   delr_100, delr_275   =  0.257
+   delr_275, delr_75    =  0.255
+   ss2_175, ss2_250     =  0.255
+   ss2_275, ss2_75      =  0.255
+   delr_200, delr_250   =  0.254
+   delr_150, delr_275   =  0.254
+   ss2_100, ss2_275     =  0.254
+   delr_125, delr_250   =  0.253
+   delr_175, delr_275   =  0.253
+   delr_275, th_RT      =  0.252
+   ss2_150, ss2_275     =  0.251
+   ss2_125, ss2_250     =  0.251
+   delr_RT, th_200      =  0.250
+   delr_RT, th_125      =  0.249
+   delr_225, delr_250   =  0.249
+   delr_200, delr_275   =  0.248
+   ss2_175, ss2_275     =  0.247
+   delr_125, delr_275   =  0.247
+   ss2_200, ss2_250     =  0.245
+   ss2_125, ss2_275     =  0.243
+   delr_RT, th_225      =  0.243
+   delr_225, delr_275   =  0.242
+   ss2_225, ss2_250     =  0.241
+   ss2_200, ss2_275     =  0.238
+   ss2_225, ss2_275     =  0.233
+   delr_50, th_300      =  0.231
+   delr_100, th_300     =  0.226
+   delr_300, th_50      =  0.225
+   delr_75, th_300      =  0.225
+   delr_150, th_300     =  0.224
+   delr_175, th_300     =  0.223
+   th_300, th_RT        =  0.223
+   delr_250, delr_275   =  0.222
+   delr_300, th_100     =  0.219
+   delr_200, th_300     =  0.219
+   delr_RT, th_250      =  0.218
+   delr_300, th_75      =  0.218
+   delr_125, th_300     =  0.218
+   delr_300, th_150     =  0.217
+   delr_300, th_175     =  0.215
+   delr_225, th_300     =  0.214
+   delr_RT, th_275      =  0.212
+   ss2_250, ss2_275     =  0.209
+   delr_300, th_200     =  0.209
+   delr_300, th_125     =  0.208
+   delr_300, th_225     =  0.203
+   delr_100, th_50      =  0.196
+   delr_250, th_300     =  0.196
+   delr_75, th_50       =  0.195
+   delr_50, th_100      =  0.195
+   delr_150, th_50      =  0.195
+   delr_50, th_75       =  0.194
+   delr_175, th_50      =  0.194
+   th_50, th_RT         =  0.193
+   delr_50, th_150      =  0.193
+   delr_50, th_175      =  0.191
+   delr_275, th_300     =  0.191
+   delr_100, th_75      =  0.190
+   delr_75, th_100      =  0.190
+   delr_200, th_50      =  0.190
+   delr_150, th_100     =  0.189
+   delr_100, th_150     =  0.189
+   delr_125, th_50      =  0.189
+   delr_175, th_100     =  0.188
+   delr_150, th_75      =  0.188
+   delr_75, th_150      =  0.188
+   th_100, th_RT        =  0.188
+   delr_100, th_175     =  0.188
+   delr_175, th_75      =  0.188
+   th_75, th_RT         =  0.187
+   delr_75, th_175      =  0.187
+   delr_175, th_150     =  0.187
+   th_150, th_RT        =  0.186
+   delr_150, th_175     =  0.186
+   delr_50, th_200      =  0.186
+   delr_225, th_50      =  0.185
+   delr_50, th_125      =  0.185
+   th_175, th_RT        =  0.185
+   delr_200, th_100     =  0.184
+   delr_125, th_100     =  0.184
+   delr_200, th_75      =  0.184
+   delr_125, th_75      =  0.183
+   delr_200, th_150     =  0.183
+   delr_300, th_250     =  0.182
+   delr_100, th_200     =  0.182
+   delr_125, th_150     =  0.182
+   delr_100, th_125     =  0.182
+   delr_75, th_200      =  0.181
+   delr_200, th_175     =  0.181
+   delr_50, th_225      =  0.181
+   delr_75, th_125      =  0.181
+   delr_125, th_175     =  0.181
+   delr_150, th_200     =  0.180
+   delr_225, th_100     =  0.180
+   delr_150, th_125     =  0.180
+   delr_175, th_200     =  0.180
+   delr_225, th_75      =  0.180
+   delr_175, th_125     =  0.179
+   th_200, th_RT        =  0.179
+   delr_225, th_150     =  0.179
+   th_125, th_RT        =  0.179
+   delr_100, th_225     =  0.177
+   delr_225, th_175     =  0.177
+   delr_300, th_275     =  0.177
+   delr_75, th_225      =  0.176
+   delr_150, th_225     =  0.176
+   delr_200, th_125     =  0.175
+   delr_125, th_200     =  0.175
+   delr_175, th_225     =  0.175
+   th_225, th_RT        =  0.174
+   delr_225, th_200     =  0.172
+   delr_225, th_125     =  0.172
+   delr_200, th_225     =  0.171
+   delr_125, th_225     =  0.171
+   delr_250, th_50      =  0.170
+   delr_275, th_50      =  0.166
+   delr_250, th_100     =  0.166
+   delr_250, th_75      =  0.165
+   delr_250, th_150     =  0.164
+   delr_250, th_175     =  0.163
+   delr_50, th_250      =  0.162
+   delr_275, th_100     =  0.161
+   delr_275, th_75      =  0.161
+   delr_275, th_150     =  0.160
+   delr_100, th_250     =  0.159
+   delr_275, th_175     =  0.159
+   delr_75, th_250      =  0.158
+   delr_250, th_200     =  0.158
+   delr_150, th_250     =  0.158
+   delr_250, th_125     =  0.157
+   delr_50, th_275      =  0.157
+   delr_175, th_250     =  0.157
+   th_250, th_RT        =  0.156
+   delr_100, th_275     =  0.154
+   delr_275, th_200     =  0.154
+   delr_250, th_225     =  0.154
+   delr_200, th_250     =  0.154
+   delr_75, th_275      =  0.153
+   delr_275, th_125     =  0.153
+   delr_125, th_250     =  0.153
+   delr_150, th_275     =  0.153
+   delr_175, th_275     =  0.152
+   th_275, th_RT        =  0.152
+   delr_225, th_250     =  0.150
+   delr_275, th_225     =  0.150
+   delr_200, th_275     =  0.149
+   delr_125, th_275     =  0.148
+   th_300, th_50        =  0.146
+   delr_225, th_275     =  0.146
+   th_100, th_300       =  0.142
+   th_300, th_75        =  0.142
+   th_150, th_300       =  0.141
+   th_175, th_300       =  0.140
+   th_200, th_300       =  0.136
+   th_125, th_300       =  0.135
+   delr_275, th_250     =  0.134
+   delr_250, th_275     =  0.134
+   th_225, th_300       =  0.132
+   th_100, th_50        =  0.123
+   th_50, th_75         =  0.123
+   th_150, th_50        =  0.122
+   th_175, th_50        =  0.121
+   th_100, th_75        =  0.120
+   th_100, th_150       =  0.119
+   th_250, th_300       =  0.119
+   th_150, th_75        =  0.118
+   th_100, th_175       =  0.118
+   th_200, th_50        =  0.118
+   th_175, th_75        =  0.117
+   th_125, th_50        =  0.117
+   th_150, th_175       =  0.117
+   th_275, th_300       =  0.115
+   th_225, th_50        =  0.115
+   th_100, th_200       =  0.115
+   th_100, th_125       =  0.114
+   th_200, th_75        =  0.114
+   th_125, th_75        =  0.114
+   th_150, th_200       =  0.113
+   th_125, th_150       =  0.113
+   th_175, th_200       =  0.113
+   th_125, th_175       =  0.112
+   th_100, th_225       =  0.111
+   th_225, th_75        =  0.111
+   th_150, th_225       =  0.110
+   th_175, th_225       =  0.110
+   th_125, th_200       =  0.109
+   th_200, th_225       =  0.106
+   th_125, th_225       =  0.106
+   th_250, th_50        =  0.103
+   th_100, th_250       =  0.100
+ 
+[[Paths]]
+ dataset 1:
+ = Path 'pf2ub3knra' = Pt L3 Edge
+    feffdat file = ./FEFF/feff0001.dat, from feff run 'FEFF'
+    geometry  atom      x        y        z      ipot
+              Pt      -0.0000, -0.0000, -0.0000  0 (absorber)
+              Pt      -0.0000,  1.9621, -1.9621  1
+     reff   =  2.7748000
+     degen  =  1.0000000
+     n*s02  =  8.2633580 +/- 0.3838170  := 'N*SO2'
+     e0     =  8.5091485 +/- 0.8027888  := 'dele'
+     r      =  2.7742201 +/- 0.0098602  := 'reff + delr_RT'
+     deltar = -5.7991e-4 +/- 0.0098602  := 'delr_RT'
+     sigma2 =  0.0073713 +/- 3.3307e-4  := 'ss2_RT'
+     third  =  1.5957e-4 +/- 1.2115e-4  := 'th_RT'
+
+ dataset 2:
+ = Path 'pf2ub3knra' = Pt L3 Edge
+    feffdat file = ./FEFF/feff0001.dat, from feff run 'FEFF'
+    geometry  atom      x        y        z      ipot
+              Pt      -0.0000, -0.0000, -0.0000  0 (absorber)
+              Pt      -0.0000,  1.9621, -1.9621  1
+     reff   =  2.7748000
+     degen  =  1.0000000
+     n*s02  =  8.2633580 +/- 0.3838170  := 'N*SO2'
+     e0     =  8.5091485 +/- 0.8027888  := 'dele'
+     r      =  2.7791228 +/- 0.0136352  := 'reff + delr_150'
+     deltar =  0.0043228 +/- 0.0136352  := 'delr_150'
+     sigma2 =  0.0075114 +/- 4.5948e-4  := 'ss2_150'
+     third  =  3.2429e-4 +/- 1.9243e-4  := 'th_150'
+
+ dataset 3:
+ = Path 'pf2ub3knra' = Pt L3 Edge
+    feffdat file = ./FEFF/feff0001.dat, from feff run 'FEFF'
+    geometry  atom      x        y        z      ipot
+              Pt      -0.0000, -0.0000, -0.0000  0 (absorber)
+              Pt      -0.0000,  1.9621, -1.9621  1
+     reff   =  2.7748000
+     degen  =  1.0000000
+     n*s02  =  8.2633580 +/- 0.3838170  := 'N*SO2'
+     e0     =  8.5091485 +/- 0.8027888  := 'dele'
+     r      =  2.7764035 +/- 0.0138506  := 'reff + delr_175'
+     deltar =  0.0016035 +/- 0.0138506  := 'delr_175'
+     sigma2 =  0.0078591 +/- 4.7352e-4  := 'ss2_175'
+     third  =  2.9908e-4 +/- 1.9814e-4  := 'th_175'
+
+ dataset 4:
+ = Path 'pf2ub3knra' = Pt L3 Edge
+    feffdat file = ./FEFF/feff0001.dat, from feff run 'FEFF'
+    geometry  atom      x        y        z      ipot
+              Pt      -0.0000, -0.0000, -0.0000  0 (absorber)
+              Pt      -0.0000,  1.9621, -1.9621  1
+     reff   =  2.7748000
+     degen  =  1.0000000
+     n*s02  =  8.2633580 +/- 0.3838170  := 'N*SO2'
+     e0     =  8.5091485 +/- 0.8027888  := 'dele'
+     r      =  2.7770422 +/- 0.0143867  := 'reff + delr_200'
+     deltar =  0.0022422 +/- 0.0143867  := 'delr_200'
+     sigma2 =  0.0083263 +/- 5.0123e-4  := 'ss2_200'
+     third  =  3.0895e-4 +/- 2.1048e-4  := 'th_200'
+
+ dataset 5:
+ = Path 'pf2ub3knra' = Pt L3 Edge
+    feffdat file = ./FEFF/feff0001.dat, from feff run 'FEFF'
+    geometry  atom      x        y        z      ipot
+              Pt      -0.0000, -0.0000, -0.0000  0 (absorber)
+              Pt      -0.0000,  1.9621, -1.9621  1
+     reff   =  2.7748000
+     degen  =  1.0000000
+     n*s02  =  8.2633580 +/- 0.3838170  := 'N*SO2'
+     e0     =  8.5091485 +/- 0.8027888  := 'dele'
+     r      =  2.7745925 +/- 0.0146699  := 'reff + delr_225'
+     deltar = -2.0750e-4 +/- 0.0146699  := 'delr_225'
+     sigma2 =  0.0082587 +/- 5.0985e-4  := 'ss2_225'
+     third  =  2.8300e-4 +/- 2.1522e-4  := 'th_225'
+
+ dataset 6:
+ = Path 'pf2ub3knra' = Pt L3 Edge
+    feffdat file = ./FEFF/feff0001.dat, from feff run 'FEFF'
+    geometry  atom      x        y        z      ipot
+              Pt      -0.0000, -0.0000, -0.0000  0 (absorber)
+              Pt      -0.0000,  1.9621, -1.9621  1
+     reff   =  2.7748000
+     degen  =  1.0000000
+     n*s02  =  8.2633580 +/- 0.3838170  := 'N*SO2'
+     e0     =  8.5091485 +/- 0.8027888  := 'dele'
+     r      =  2.7688952 +/- 0.0163698  := 'reff + delr_250'
+     deltar = -0.0059048 +/- 0.0163698  := 'delr_250'
+     sigma2 =  0.0088500 +/- 5.8376e-4  := 'ss2_250'
+     third  =  1.6309e-4 +/- 2.5009e-4  := 'th_250'
+
+ dataset 7:
+ = Path 'pf2ub3knra' = Pt L3 Edge
+    feffdat file = ./FEFF/feff0001.dat, from feff run 'FEFF'
+    geometry  atom      x        y        z      ipot
+              Pt      -0.0000, -0.0000, -0.0000  0 (absorber)
+              Pt      -0.0000,  1.9621, -1.9621  1
+     reff   =  2.7748000
+     degen  =  1.0000000
+     n*s02  =  8.2633580 +/- 0.3838170  := 'N*SO2'
+     e0     =  8.5091485 +/- 0.8027888  := 'dele'
+     r      =  2.7695924 +/- 0.0168558  := 'reff + delr_275'
+     deltar = -0.0052076 +/- 0.0168558  := 'delr_275'
+     sigma2 =  0.0090122 +/- 6.0559e-4  := 'ss2_275'
+     third  =  2.3754e-4 +/- 2.6026e-4  := 'th_275'
+
+ dataset 8:
+ = Path 'pf2ub3knra' = Pt L3 Edge
+    feffdat file = ./FEFF/feff0001.dat, from feff run 'FEFF'
+    geometry  atom      x        y        z      ipot
+              Pt      -0.0000, -0.0000, -0.0000  0 (absorber)
+              Pt      -0.0000,  1.9621, -1.9621  1
+     reff   =  2.7748000
+     degen  =  1.0000000
+     n*s02  =  8.2633580 +/- 0.3838170  := 'N*SO2'
+     e0     =  8.5091485 +/- 0.8027888  := 'dele'
+     r      =  2.7614599 +/- 0.0126684  := 'reff + delr_300'
+     deltar = -0.0133401 +/- 0.0126684  := 'delr_300'
+     sigma2 =  0.0095423 +/- 4.6014e-4  := 'ss2_300'
+     third  =  1.5562e-4 +/- 1.8421e-4  := 'th_300'
+
+ dataset 9:
+ = Path 'pf2ub3knra' = Pt L3 Edge
+    feffdat file = ./FEFF/feff0001.dat, from feff run 'FEFF'
+    geometry  atom      x        y        z      ipot
+              Pt      -0.0000, -0.0000, -0.0000  0 (absorber)
+              Pt      -0.0000,  1.9621, -1.9621  1
+     reff   =  2.7748000
+     degen  =  1.0000000
+     n*s02  =  8.2633580 +/- 0.3838170  := 'N*SO2'
+     e0     =  8.5091485 +/- 0.8027888  := 'dele'
+     r      =  2.7614599 +/- 0.0126684  := 'reff + delr_300'
+     deltar = -0.0133401 +/- 0.0126684  := 'delr_300'
+     sigma2 =  0.0095423 +/- 4.6014e-4  := 'ss2_300'
+     third  =  1.5562e-4 +/- 1.8421e-4  := 'th_300'
+
+ dataset 10:
+ = Path 'pf2ub3knra' = Pt L3 Edge
+    feffdat file = ./FEFF/feff0001.dat, from feff run 'FEFF'
+    geometry  atom      x        y        z      ipot
+              Pt      -0.0000, -0.0000, -0.0000  0 (absorber)
+              Pt      -0.0000,  1.9621, -1.9621  1
+     reff   =  2.7748000
+     degen  =  1.0000000
+     n*s02  =  8.2633580 +/- 0.3838170  := 'N*SO2'
+     e0     =  8.5091485 +/- 0.8027888  := 'dele'
+     r      =  2.7742201 +/- 0.0098602  := 'reff + delr_RT'
+     deltar = -5.7991e-4 +/- 0.0098602  := 'delr_RT'
+     sigma2 =  0.0073713 +/- 3.3307e-4  := 'ss2_RT'
+     third  =  1.5957e-4 +/- 1.2115e-4  := 'th_RT'
+
+ dataset 11:
+ = Path 'pf2ub3knra' = Pt L3 Edge
+    feffdat file = ./FEFF/feff0001.dat, from feff run 'FEFF'
+    geometry  atom      x        y        z      ipot
+              Pt      -0.0000, -0.0000, -0.0000  0 (absorber)
+              Pt      -0.0000,  1.9621, -1.9621  1
+     reff   =  2.7748000
+     degen  =  1.0000000
+     n*s02  =  8.2633580 +/- 0.3838170  := 'N*SO2'
+     e0     =  8.5091485 +/- 0.8027888  := 'dele'
+     r      =  2.7614599 +/- 0.0126684  := 'reff + delr_300'
+     deltar = -0.0133401 +/- 0.0126684  := 'delr_300'
+     sigma2 =  0.0095423 +/- 4.6014e-4  := 'ss2_300'
+     third  =  1.5562e-4 +/- 1.8421e-4  := 'th_300'
+
+ dataset 12:
+ = Path 'pf2ub3knra' = Pt L3 Edge
+    feffdat file = ./FEFF/feff0001.dat, from feff run 'FEFF'
+    geometry  atom      x        y        z      ipot
+              Pt      -0.0000, -0.0000, -0.0000  0 (absorber)
+              Pt      -0.0000,  1.9621, -1.9621  1
+     reff   =  2.7748000
+     degen  =  1.0000000
+     n*s02  =  8.2633580 +/- 0.3838170  := 'N*SO2'
+     e0     =  8.5091485 +/- 0.8027888  := 'dele'
+     r      =  2.7742201 +/- 0.0098602  := 'reff + delr_RT'
+     deltar = -5.7991e-4 +/- 0.0098602  := 'delr_RT'
+     sigma2 =  0.0073713 +/- 3.3307e-4  := 'ss2_RT'
+     third  =  1.5957e-4 +/- 1.2115e-4  := 'th_RT'
+
+ dataset 13:
+ = Path 'pf2ub3knra' = Pt L3 Edge
+    feffdat file = ./FEFF/feff0001.dat, from feff run 'FEFF'
+    geometry  atom      x        y        z      ipot
+              Pt      -0.0000, -0.0000, -0.0000  0 (absorber)
+              Pt      -0.0000,  1.9621, -1.9621  1
+     reff   =  2.7748000
+     degen  =  1.0000000
+     n*s02  =  8.2633580 +/- 0.3838170  := 'N*SO2'
+     e0     =  8.5091485 +/- 0.8027888  := 'dele'
+     r      =  2.7742201 +/- 0.0098602  := 'reff + delr_RT'
+     deltar = -5.7991e-4 +/- 0.0098602  := 'delr_RT'
+     sigma2 =  0.0073713 +/- 3.3307e-4  := 'ss2_RT'
+     third  =  1.5957e-4 +/- 1.2115e-4  := 'th_RT'
+
+ dataset 14:
+ = Path 'pf2ub3knra' = Pt L3 Edge
+    feffdat file = ./FEFF/feff0001.dat, from feff run 'FEFF'
+    geometry  atom      x        y        z      ipot
+              Pt      -0.0000, -0.0000, -0.0000  0 (absorber)
+              Pt      -0.0000,  1.9621, -1.9621  1
+     reff   =  2.7748000
+     degen  =  1.0000000
+     n*s02  =  8.2633580 +/- 0.3838170  := 'N*SO2'
+     e0     =  8.5091485 +/- 0.8027888  := 'dele'
+     r      =  2.7737158 +/- 0.0129894  := 'reff + delr_50'
+     deltar = -0.0010842 +/- 0.0129894  := 'delr_50'
+     sigma2 =  0.0067199 +/- 4.2369e-4  := 'ss2_50'
+     third  =  1.4348e-4 +/- 1.7713e-4  := 'th_50'
+
+ dataset 15:
+ = Path 'pf2ub3knra' = Pt L3 Edge
+    feffdat file = ./FEFF/feff0001.dat, from feff run 'FEFF'
+    geometry  atom      x        y        z      ipot
+              Pt      -0.0000, -0.0000, -0.0000  0 (absorber)
+              Pt      -0.0000,  1.9621, -1.9621  1
+     reff   =  2.7748000
+     degen  =  1.0000000
+     n*s02  =  8.2633580 +/- 0.3838170  := 'N*SO2'
+     e0     =  8.5091485 +/- 0.8027888  := 'dele'
+     r      =  2.7769675 +/- 0.0134751  := 'reff + delr_75'
+     deltar =  0.0021675 +/- 0.0134751  := 'delr_75'
+     sigma2 =  0.0071576 +/- 4.4727e-4  := 'ss2_75'
+     third  =  2.1357e-4 +/- 1.8770e-4  := 'th_75'
+
+ dataset 16:
+ = Path 'pf2ub3knra' = Pt L3 Edge
+    feffdat file = ./FEFF/feff0001.dat, from feff run 'FEFF'
+    geometry  atom      x        y        z      ipot
+              Pt      -0.0000, -0.0000, -0.0000  0 (absorber)
+              Pt      -0.0000,  1.9621, -1.9621  1
+     reff   =  2.7748000
+     degen  =  1.0000000
+     n*s02  =  8.2633580 +/- 0.3838170  := 'N*SO2'
+     e0     =  8.5091485 +/- 0.8027888  := 'dele'
+     r      =  2.7737030 +/- 0.0135021  := 'reff + delr_100'
+     deltar = -0.0010970 +/- 0.0135021  := 'delr_100'
+     sigma2 =  0.0073115 +/- 4.5099e-4  := 'ss2_100'
+     third  =  1.3395e-4 +/- 1.8890e-4  := 'th_100'
+
+ dataset 17:
+ = Path 'pf2ub3knra' = Pt L3 Edge
+    feffdat file = ./FEFF/feff0001.dat, from feff run 'FEFF'
+    geometry  atom      x        y        z      ipot
+              Pt      -0.0000, -0.0000, -0.0000  0 (absorber)
+              Pt      -0.0000,  1.9621, -1.9621  1
+     reff   =  2.7748000
+     degen  =  1.0000000
+     n*s02  =  8.2633580 +/- 0.3838170  := 'N*SO2'
+     e0     =  8.5091485 +/- 0.8027888  := 'dele'
+     r      =  2.7695545 +/- 0.0141122  := 'reff + delr_125'
+     deltar = -0.0052455 +/- 0.0141122  := 'delr_125'
+     sigma2 =  0.0074757 +/- 4.7442e-4  := 'ss2_125'
+     third  =  9.0766e-5 +/- 2.0057e-4  := 'th_125'
+
+=======================================================
